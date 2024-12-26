@@ -1,0 +1,30 @@
+I. rtsp.py : read rtsp and count FPS
+
+  1.change rtsp url
+ 
+  2.execute python3 rtsp.py
+
+--------------------------------------------
+II. rtsp_getpic.py : read rtsp and save 1 img per second
+
+  1.create img_save folder
+
+  2. change rtsp url
+
+  3.execute python3 rtsp_getpic.py
+
+--------------------------------------------
+III. rtsp_recordavi.py : read rtsp and save to avi
+
+  1.change rtsp url
+
+  2.execute python3 rtsp_recordavi.py
+
+--------------------------------------------
+IV. yolov8_CPU_mult_thread.py : using CPU multhreading mode to run YOLOv8
+
+  1.change rtsp url and pt model
+
+  2.execute python3 yolov8_CPU_mult_thread.py
+
+
